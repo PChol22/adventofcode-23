@@ -1,10 +1,13 @@
-# Advent of Code 2023 - JavaScript - By Pchol22
+# Advent of Code 2023 - JavaScript and C++ - By Pchol22
 
-This repository contains my solutions to the [Advent of Code 2023](https://adventofcode.com/2023) challenges, written in JavaScript (Node.js).
+This repository contains my solutions to the [Advent of Code 2023](https://adventofcode.com/2023) challenges.
 
-Each folder contains the solution to the corresponding day, plus a input.txt file containing **MY** input data for that day. Replace the input data with your own if you need to!
+- 🏆 I am competing using **JavaScript**.
+- 🐣 I also try to solve the challenges using **C++**, to get better at it.
 
-## How to run?
+Each folder contains the JS and C++ solution to the corresponding day, plus a input.txt file containing **MY** input data for that day. Replace the input data with your own if you need to!
+
+## How to run JavaScript solutions?
 
 Example for day 1:
 
@@ -12,7 +15,16 @@ Example for day 1:
 node ./day1/solution.js
 ```
 
-## My results so far using this code
+## How to run C++ solutions?
+
+Example for day 1:
+
+```bash
+cd ./day1
+g++ solution.cpp -o output && ./output && rm output
+```
+
+## My results so far using the **JavaScript** solutions
 
 ### Day 1
 
