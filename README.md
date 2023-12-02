@@ -17,3 +17,7 @@ node ./day1/solution.js
 ### Day 1
 
 ⭐️: **683**th - ⭐️⭐️: **3249**th - [View solution](./day1/solution.js)
+
+### Day 2
+
+⭐️: **1766**th - ⭐️⭐️: **1500**th - [View solution](./day2/solution.js)
