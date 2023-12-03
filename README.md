@@ -33,3 +33,7 @@ g++ solution.cpp -o output && ./output && rm output
 ### Day 2
 
 ⭐️: **1766**th - ⭐️⭐️: **1500**th - [View solution](./day2/solution.js)
+
+### Day 3
+
+⭐️: **4442**th - ⭐️⭐️: **4803**th - [View solution](./day2/solution.js)
