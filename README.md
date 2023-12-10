@@ -12,7 +12,7 @@ Each folder contains the JS and C++ solution to the corresponding day, plus a in
 Example for day 1:
 
 ```bash
-node ./day1/solution.js
+node ./day01/solution.js
 ```
 
 ## How to run C++ solutions?
@@ -20,7 +20,7 @@ node ./day1/solution.js
 Example for day 1:
 
 ```bash
-cd ./day1
+cd ./day01
 g++ solution.cpp -o output && ./output && rm output
 ```
 
@@ -28,39 +28,39 @@ g++ solution.cpp -o output && ./output && rm output
 
 ### Day 1
 
-⭐️: **683**th - ⭐️⭐️: **3249**th - [View solution](./day1/solution.js)
+⭐️: **683**th - ⭐️⭐️: **3249**th - [View solution](./day01/solution.js)
 
 ### Day 2
 
-⭐️: **1766**th - ⭐️⭐️: **1500**th - [View solution](./day2/solution.js)
+⭐️: **1766**th - ⭐️⭐️: **1500**th - [View solution](./day02/solution.js)
 
 ### Day 3
 
-⭐️: **4442**th - ⭐️⭐️: **4803**th - [View solution](./day3/solution.js)
+⭐️: **4442**th - ⭐️⭐️: **4803**th - [View solution](./day03/solution.js)
 
 ### Day 4
 
-⭐️: **597**th - ⭐️⭐️: **4495**th - [View solution](./day4/solution.js)
+⭐️: **597**th - ⭐️⭐️: **4495**th - [View solution](./day04/solution.js)
 
 ### Day 5
 
-⭐️: **2515**th - ⭐️⭐️: **1412**th - [View solution](./day5/solution.js)
+⭐️: **2515**th - ⭐️⭐️: **1412**th - [View solution](./day05/solution.js)
 
 ### Day 6
 
-⭐️: **2269**th - ⭐️⭐️: **2387**th - [View solution](./day6/solution.js)
+⭐️: **2269**th - ⭐️⭐️: **2387**th - [View solution](./day06/solution.js)
 
 ### Day 7
 
-⭐️: **925**th - ⭐️⭐️: **1402**th - [View solution](./day7/solution.js)
+⭐️: **925**th - ⭐️⭐️: **1402**th - [View solution](./day07/solution.js)
 
 ### Day 8 🍻 🤮 😴 😵‍💫 (started at T+12H)
 
-⭐️: **45121**th - ⭐️⭐️: **31928**th - [View solution](./day8/solution.js)
+⭐️: **45121**th - ⭐️⭐️: **31928**th - [View solution](./day08/solution.js)
 
 ### Day 9
 
-⭐️: **1625**th - ⭐️⭐️: **1375**th - [View solution](./day9/solution.js)
+⭐️: **1625**th - ⭐️⭐️: **1375**th - [View solution](./day09/solution.js)
 
 ### Day 10 😴 (started at T+5H)
 
