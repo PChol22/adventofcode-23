@@ -54,10 +54,14 @@ g++ solution.cpp -o output && ./output && rm output
 
 ⭐️: **925**th - ⭐️⭐️: **1402**th - [View solution](./day7/solution.js)
 
-### Day 8 🍻 🤮 😴 😵‍💫
+### Day 8 🍻 🤮 😴 😵‍💫 (started at T+12H)
 
 ⭐️: **45121**th - ⭐️⭐️: **31928**th - [View solution](./day8/solution.js)
 
 ### Day 9
 
 ⭐️: **1625**th - ⭐️⭐️: **1375**th - [View solution](./day9/solution.js)
+
+### Day 10 😴 (started at T+5H)
+
+⭐️: **17015**th - ⭐️⭐️: **8378**th - [View solution](./day10/solution.js)
