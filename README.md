@@ -65,3 +65,7 @@ g++ solution.cpp -o output && ./output && rm output
 ### Day 10 😴 (started at T+5H)
 
 ⭐️: **17015**th - ⭐️⭐️: **8378**th - [View solution](./day10/solution.js)
+
+### Day 11
+
+⭐️: **842**th - ⭐️⭐️: **623**th - [View solution](./day11/solution.js)
